@@ -1,0 +1,5 @@
+1 les variables
+2 les opérateurs
+3 les structures de contrôle
+4 les fonctions
+5 le DOM
