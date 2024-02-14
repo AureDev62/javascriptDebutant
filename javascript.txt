@@ -3,3 +3,11 @@
 3 les structures de contrôle
 4 les fonctions
 5 le DOM
+6 tableaux et objets
+7 POO
+8 gestion d'événements
+9 asynchrone
+10 module et imports
+11 expression régulière
+12 gestion des erreurs
+13 fonctionnalités ES6+
